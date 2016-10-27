@@ -183,4 +183,8 @@ interface ISub {
     int getSimStateForSlotIdx(int slotIdx);
 
     boolean isActiveSubId(int subId);
+
+    // MTK
+
+    int getSubIdUsingPhoneId(int phoneId);
 }

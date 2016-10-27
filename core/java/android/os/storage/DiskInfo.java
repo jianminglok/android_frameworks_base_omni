@@ -108,7 +108,7 @@ public class DiskInfo implements Parcelable {
                 return res.getString(com.android.internal.R.string.storage_usb_drive);
             }
         } else {
-            return null;
+            return res.getString(com.android.internal.R.string.storage_sd_card);
         }
     }
 
