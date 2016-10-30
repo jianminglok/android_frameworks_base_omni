@@ -81,4 +81,8 @@
     <!-- Vendor mismatched fingerprint warning [CHAR LIMIT=NONE] -->
     <string name="system_error_vendorprint">It appears your vendor image may be out of date. Please flash the latest vendor image for your device.</string>
 
+    <!-- Uicc hotswapped event configuration needed notification -->
+    <string name="uicc_hot_swapped_event_title">SIM cards have changed</string>
+    <string name="uicc_hot_swapped_event_text">Tap to set SIM card default preferences</string>
+    
 </resources>
